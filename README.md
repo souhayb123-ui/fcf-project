@@ -53,7 +53,7 @@ Designed with potential AI/IoT integration in mind (e.g., smart routing and deli
 ---
 
 ## How to Run
-1. Clone the repository: `git clone https://github.com/USERNAME/fcf_proj.git`  
+1. Clone the repository: `git clone https://github.com/souhayb123-ui/fcf-project.git`  
 2. Install dependencies: `composer install`  
 3. Configure `.env` file with database credentials  
 4. Run Laravel server: `php artisan serve`  
