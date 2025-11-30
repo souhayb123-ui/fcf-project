@@ -18,6 +18,7 @@ Designed with potential AI/IoT integration in mind (e.g., smart routing and deli
   - Cart summary: Product Name, Unit Price, Quantity, Total
   - Total amount calculation
 - **Offline JavaScript chatbot** for instant assistance
+- reset password after 3 filed attempts to login
 
 ### Admin Dashboard
 - **Product Management**
